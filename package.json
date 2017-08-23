@@ -6,6 +6,9 @@
   "repository": "https://github.com/vxox/woh",
   "author": "vxox",
   "license": "GPL-3.0",
+  "bin": {
+    "woh": "index.js"
+  },
   "dependencies": {
     "chalk": "^2.1.0"
   }
