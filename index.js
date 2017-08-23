@@ -1,2 +1,4 @@
 #!/usr/bin/env node
-const chalk = require('chalk');
+
+// Require libraries
+const chalk = require('chalk'); // Colored logging
